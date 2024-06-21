@@ -73,7 +73,7 @@
             <%
             String url = "jdbc:mysql://localhost/disaster";
             String Username = "root";
-            String Password = "pranab1234";
+            String Password = "jeet1234";
             String Query = "select * from volunteer";
             Connection conn = null;
             PreparedStatement pst = null;
