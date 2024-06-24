@@ -259,7 +259,8 @@
 
                 <!--RIGHT SIDE-->
                 <div class="right-side">
-                    <div class="topic">Contact Us in Case of Emergency</div>
+                    <div class="topic">Contact Us in Case of Emergency</div><br>
+                    <p style="color:red">Our toll free number: +91 81019 70045</p>
                     <form id="locationForm">
                         <div class="input-box">
                             <input type="text" id="name" name="name" placeholder="Name:" required><br>
